@@ -38,7 +38,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('[COLOR magenta][B]• •   Sexy +18   • •[/B][/COLOR][COLOR deepskyred]********************************[/COLOR]', ['[B][COLOR blue]•   [/B][/COLOR]Sexy 01', '[B][COLOR blue]•   [/B][/COLOR]Sexy 02', '[B][COLOR blue]•   [/B][/COLOR]Sexy 03' , '[B][COLOR blue]•   [/B][/COLOR]Sexy 04', '[B][COLOR blue]•   [/B][/COLOR]Sexy 05', '[B][COLOR blue]•   [/B][/COLOR]Sexy 06', '[B][COLOR blue]•   [/B][/COLOR]Sexy 07', '[B][COLOR blue]•   [/B][/COLOR]Sexy 08'])
+   ret = dialog.select('[COLOR magenta]# #   Sexy +18   # #[/COLOR][COLOR deepskyred]********************************[/COLOR]', ['[COLOR blue]#  [/COLOR]Sexy 01', '[COLOR blue]#  [/COLOR]Sexy 02', '[COLOR blue]#  [/COLOR]Sexy 03' , '[COLOR blue]#  [/COLOR]Sexy 04', '[COLOR blue]#  [/COLOR]Sexy 05', '[COLOR blue]#  [/COLOR]Sexy 06', '[COLOR blue]#  [/COLOR]Sexy 07', '[COLOR blue]#  [/COLOR]Sexy 08'])
    lists = ['https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy1','https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy2', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy3', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy4', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy5', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy6', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy7', 'https://raw.githubusercontent.com/Carlosvives2017/retrodomacupichu/master/sexy8']
    return lists[ret]
 ]]></expres>
